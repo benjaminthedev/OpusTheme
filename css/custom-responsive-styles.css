@@ -1,0 +1,124 @@
+
+/************************************
+All Custom Responsive Styles
+*************************************/
+
+
+
+/************************************
+Mobiles
+*************************************/
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575px) { 
+
+/*-- Home Page Styles --*/
+
+.floatingtext.homebannertext {
+    position: absolute;
+    z-index: 1000;
+    width: 100%;
+    margin-top: 0px;
+}
+
+.homebannertext h1 {
+    color: #ffffff!important;
+    font-size: 22px!important;
+    line-height: 32px!important;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8)!important;
+    font-weight: bold!important;
+}
+
+.homebannertext h2 {
+    font-weight: normal!important;
+    font-style: normal!important;
+    font-family: 'Quattrocento Sans';
+    font-size: 18px!important;
+    line-height: 24px!important;
+    color: #ffffff!important;
+    text-align: center;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8)!important;
+}
+
+
+
+
+
+
+ }
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767px) { 
+
+
+
+/*-- Home Page Styles --*/
+
+.floatingtext.homebannertext {
+    position: absolute;
+    z-index: 1000;
+    width: 100%;
+    margin-top: 0px;
+}
+
+.homebannertext h1 {
+    color: #ffffff!important;
+    font-size: 22px!important;
+    line-height: 32px!important;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8)!important;
+    font-weight: bold!important;
+}
+
+.homebannertext h2 {
+    font-weight: normal!important;
+    font-style: normal!important;
+    font-family: 'Quattrocento Sans';
+    font-size: 18px!important;
+    line-height: 24px!important;
+    color: #ffffff!important;
+    text-align: center;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8)!important;
+}
+
+
+
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991px) {
+
+.fw-footer-widgets{
+	background-color: blue !important;
+}
+
+  }
+
+/************************************
+All Custom Table Responsive Styles
+*************************************/
+
+
+
+
+/************************************
+Custom Reponsive Styles Continued
+*************************************/
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199px) {
+
+.fw-footer-widgets{
+	background-color: pink !important;
+}
+
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+	body{
+		background-color: purple !important;
+	}
+}
+
+
+

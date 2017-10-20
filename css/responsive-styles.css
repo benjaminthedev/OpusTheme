@@ -1,0 +1,166 @@
+
+/************************************
+Media Queries
+*************************************/
+
+@media only screen and (min-width: 768px) and (max-width: 1070px) 
+{
+ .floatingtext.homebannertext {
+    margin-top: 8%;
+}
+
+.floatingtext.homebannertext h1 {
+font-size:2em!important;
+line-height:1.4em!important;
+}
+
+.floatingtext.homebannertext h2 {
+font-size:1.2em!important;
+line-height:1.4em!important;
+}
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) 
+{
+  .opusboxes .fw-container {
+width:100%!important;}
+
+.opusboxone, .opusboxtwo, .opusboxthree, .opusboxfour {
+   min-height:390px
+}
+ .floatingtext.homebannertext {
+    margin-top: 8%;
+}
+
+.floatingtext.homebannertext h1 {
+font-size:2em!important;
+line-height:1.4em!important;
+}
+
+.floatingtext.homebannertext h2 {
+font-size:1.2em!important;
+line-height:1.4em!important;
+}
+}
+
+@media only screen and (max-width: 767px) 
+{
+li#menu-item-6309 
+{display: none;}
+
+li#menu-item-6310 
+{display: none;}
+
+.tf-sh-abf483ff8ed1aba81bf7037064cc0cf9 .fw-col-inner {
+    padding: 30px 0px 0px 0px!important;
+}
+
+
+.floatleft {
+width:100%!important;
+
+}
+
+.floatright {
+width:100%!important;
+text-align:center; 
+} 
+
+}
+
+
+@media only screen and (min-width: 480px) and (max-width: 845px) {
+
+
+footer#colophon{
+    background-color: #000000 !important;
+}
+
+ .floatingtext.homebannertext {
+    margin-top: 8%;
+}
+
+.floatingtext.homebannertext h1 {
+font-size:2em!important;
+line-height:1.4em!important;
+}
+
+.floatingtext.homebannertext h2 {
+display:none;
+}
+
+ }
+
+@media screen and (max-width: 479px)
+{
+.floatingtext.homebannertext {
+    margin-top: 15%;
+}
+.floatingtext.homebannertext h1 {
+font-size:1.5em!important;
+line-height:1.5em!important;
+}
+
+.floatingtext.homebannertext h2 {
+display:none;
+}
+
+.fw-search.fw-mini-search {
+    display: none!important;
+}
+
+.floatleft {
+width:100%!important;
+
+}
+
+.floatright {
+width:100%!important;
+text-align:center; 
+} 
+
+
+.fw-top-bar {
+    line-height: 20px;
+}
+
+.bannerbutton {
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.yearone, .yeartwo, .yearthree {
+    width: 100%;
+    margin-bottom:20px;
+ 
+}
+
+.yeartwo {
+    margin: 0px 0px 20px 0px;
+}
+ }
+
+@media only screen and (min-width: 1024px) {
+
+    .reasonone, .reasontwo, .reasonthree, .reasonfour {
+        height: 340px;
+    }
+
+/*    .fw-col-sm-3 .borderright{
+        border:none;
+    }*/
+
+}
+@media only screen and (max-width: 1024px) {
+
+    .fw-col-sm-3 .borderright{
+        border:none;
+    }
+
+}
+
+/************************************
+End of Media Queries
+************************************
+/
