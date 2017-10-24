@@ -2640,7 +2640,7 @@ ul.scrollLink li a:hover{
 }
 
 .paging-navigation .page-numbers.prev i, 
-.paging-navigation .page-numbers.next i {
+.paging-navigation .page-numbers.next i   {
   color: white;
 }
 
@@ -2760,8 +2760,7 @@ ul.scrollLink li a:hover{
   margin: 0;
   border: none;
   width: auto;
-  height: auto;
-  
+  height: auto;  
 }
 
 #ship-to-different-address-checkbox {
@@ -2806,6 +2805,7 @@ ul.scrollLink li a:hover{
     margin: 6px;
     min-height: 350px;
     margin-bottom: 20px; 
+
 }
 
 /*.page-id-6147 .otherCoursesSection li.globalListProduct:nth-child(4),
@@ -3054,8 +3054,6 @@ li.globalListProduct:nth-child(13){
     min-height: 100px;
 }
 
-
-
 /*-- Enquires btn New --*/
 
 a.enquiresBtn{
@@ -3067,15 +3065,11 @@ a.enquiresBtn{
     text-align: center;
     margin: 20px;    
     width: 200px;
-    /*border: 2px solid #EB690A;*/
-    padding: 10px 25px!important;
-    
+    padding: 10px 25px!important;     
     background-color: #EB690A;
     color: #fff;
-    /*-- centers-*/
     margin-left: 130px;
 }
-
 
 a.enquiresBtn:hover{
    text-decoration: underline;
@@ -3090,7 +3084,6 @@ a.enquiresBtn.evenpost {
 span.woocommerce-advanced-product-label.product-label.label-red {
     display: none;
 }
-
 
 /*-- Home Page Icons --*/
 
