@@ -1,7 +1,7 @@
 /*Theme Name: Opus
-Description: Description
+Description: This is a custom theme for Opus
 Author: Secret Source
-Author URI: http://www.secretsourcemarketing.com
+Author URI: https://www.opuspharmserve.com/
 Template: the-core-parent
 Version: 1.0
 Text Domain: the-core
@@ -19,6 +19,7 @@ dom care:    #8BC34A
 children:    #2196F3
 schools:    #9C27B0  
 
+
 local:    #009688
 extra:    #00BCD4 00BCD5
 personal:    #E91E63
@@ -33,6 +34,7 @@ hospices:    #E64A19
 /************************************
 Typography
 *************************************/
+
 body {
   font-weight: 300!important;
   font-style: normal!important;
@@ -3107,7 +3109,6 @@ span.woocommerce-advanced-product-label.product-label.label-red {
   margin-left: 40px;
  }  
     
-
 /*Schools*/
 .postid-7682 div.title-container,
 .postid-7680 div.title-container,
@@ -3117,17 +3118,64 @@ span.woocommerce-advanced-product-label.product-label.label-red {
 .postid-7950 div.title-container,
 .postid-7927 div.title-container,
 .postid-7925 div.title-container,
+.postid-7994 div.title-container,
 .postid-7980 div.title-container{
   background-color: #9C27B0 !important;
 }
 
 /*Distance Learning*/
-.postid-7996 div.title-container,
-.postid-7694 div.title-container,
-.postid-7992 div.title-container,
-.postid-7994 div.title-container,
+/*.postid-7996 div.title-container,*/
+/*.postid-7694 div.title-container,
 .postid-7901 div.title-container{
  background-color: #00BCD4 !important; 
 }
+*/
 
+
+/*Extra Care Living Support*/
+.postid-7992 div.title-container{
+  background-color: #00BCD4 !important; 
+}
+
+
+/*Domiciliary*/
+
+.postid-7990 div.title-container{
+  background-color: #8BC34A !important; 
+}
+
+
+
+/*Day Care*/
+
+.postid-7985 div.title-container{
+  background-color: #880E4F !important; 
+}
+
+/*Managers*/
+
+.postid-7996 div.title-container,
+.postid-7948 div.title-container{
+  background-color: #1f2765 !important; 
+}
+
+/*supplementary*/
+
+.postid-7983 div.title-container,
+.postid-7981 div.title-container,
+.postid-7979 div.title-container,
+.postid-7977 div.title-container,
+.postid-7981 div.title-container,
+.postid-7975 div.title-container,
+.postid-7973 div.title-container,
+.postid-7971 div.title-container,
+.postid-7969 div.title-container,
+.postid-7967 div.title-container,
+.postid-7965 div.title-container,
+.postid-7963 div.title-container,
+.postid-7971 div.title-container,
+.postid-7961 div.title-container,
+.postid-7958 div.title-container{
+  background-color: #ea8785 !important; 
+}
 

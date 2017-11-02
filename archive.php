@@ -18,10 +18,8 @@ $separator_items                = the_core_blog_grid_separator_number($the_core_
 	?>
 					<?php if( function_exists('fw_ext_breadcrumbs') ) fw_ext_breadcrumbs(); ?> 
 
-
 	<div class="fw-container">
 		<div class="fw-row">
-
 			<div class="fw-content-area <?php the_core_get_content_class( 'content', $the_core_sidebar_position ); ?>">
 				<div class="fw-col-inner">
 					<?php //if( function_exists('fw_ext_breadcrumbs') ) fw_ext_breadcrumbs(); ?> 

@@ -5,6 +5,7 @@
 function the_core_theme_enqueue_styles() {
     wp_enqueue_style( 'parent-style', get_template_directory_uri() . '/style.css' );
 }
+
 add_action( 'wp_enqueue_scripts', 'the_core_theme_enqueue_styles' );
 
 function schema_org_markup() {
@@ -88,7 +89,7 @@ remove_action( 'woocommerce_before_main_content', 'woocommerce_breadcrumb', 20);
 ///////////robs changes//////////////
 /////////////////////////////////////
 
-// Setting Previous/Next labels here which will override the ones that would normally be set in the parent theme
+// Setting Previous/Next labels here which will override the ones that would normally be set in the parent theme 
 function _the_core_action_woocommerce_pagination_args()
 {
 	return array(

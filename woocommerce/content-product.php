@@ -29,9 +29,6 @@ if ( empty( $product ) || ! $product->is_visible() ) {
 ?>
 <li class="globalListProduct">
 
-
-
-
 <div class="div1">
 	
 	<?php
