@@ -17,16 +17,18 @@ opus orange: #EB690A
 care homes:  #FFC107
 dom care:    #8BC34A
 children:    #2196F3
-schools:    #9C27B0
+schools:    #9C27B0  
 
 local:    #009688
-extra:    #00BCD4
+extra:    #00BCD4 00BCD5
 personal:    #E91E63
 foster:    #673AB7
 nurses:    #3F51B5
 learning :    #607D8B
 day care:    #880E4F
 hospices:    #E64A19
+
+
 */
 /************************************
 Typography
@@ -3093,6 +3095,39 @@ span.woocommerce-advanced-product-label.product-label.label-red {
 
 .home .fw-iconbox .fw-iconbox-image img {
     height: 80%;
+}
+
+
+
+/*-- Shop Pages Boxes --*/
+
+/*-- button left fix --*/
+
+.postid-7901 a.enquiresBtn{
+  margin-left: 40px;
+ }  
+    
+
+/*Schools*/
+.postid-7682 div.title-container,
+.postid-7680 div.title-container,
+.postid-7956 div.title-container,
+.postid-7954 div.title-container,
+.postid-7952 div.title-container,
+.postid-7950 div.title-container,
+.postid-7927 div.title-container,
+.postid-7925 div.title-container,
+.postid-7980 div.title-container{
+  background-color: #9C27B0 !important;
+}
+
+/*Distance Learning*/
+.postid-7996 div.title-container,
+.postid-7694 div.title-container,
+.postid-7992 div.title-container,
+.postid-7994 div.title-container,
+.postid-7901 div.title-container{
+ background-color: #00BCD4 !important; 
 }
 
 
