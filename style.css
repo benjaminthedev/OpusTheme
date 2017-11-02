@@ -3105,7 +3105,10 @@ span.woocommerce-advanced-product-label.product-label.label-red {
 
 /*-- button left fix --*/
 
-.postid-7901 a.enquiresBtn{
+.postid-7901 a.enquiresBtn,
+.postid-7667 a.enquiresBtn,
+.postid-7903 a.enquiresBtn,
+.postid-7899 a.enquiresBtn{
   margin-left: 40px;
  }  
     
@@ -3119,7 +3122,8 @@ span.woocommerce-advanced-product-label.product-label.label-red {
 .postid-7927 div.title-container,
 .postid-7925 div.title-container,
 .postid-7994 div.title-container,
-.postid-7980 div.title-container{
+.postid-7980 div.title-container,
+.postid-7890 div.title-container{
   background-color: #9C27B0 !important;
 }
 
@@ -3133,29 +3137,46 @@ span.woocommerce-advanced-product-label.product-label.label-red {
 
 
 /*Extra Care Living Support*/
-.postid-7992 div.title-container{
+.postid-7992 div.title-container,
+.postid-7938 div.title-container,
+.postid-7913 div.title-container,
+.postid-7901 div.title-container{
   background-color: #00BCD4 !important; 
 }
 
 
 /*Domiciliary*/
 
-.postid-7990 div.title-container{
+.postid-7990 div.title-container,
+.postid-7940 div.title-container,
+.postid-7936 div.title-container,
+.postid-7919 div.title-container,
+.postid-7917 div.title-container,
+.postid-7903 div.title-container,
+.postid-7674 div.title-container{
   background-color: #8BC34A !important; 
 }
 
-
-
 /*Day Care*/
 
-.postid-7985 div.title-container{
+.postid-7985 div.title-container,
+.postid-7933 div.title-container,
+.postid-7921 div.title-container,
+.postid-7899 div.title-container{
   background-color: #880E4F !important; 
+}
+
+/*Personal Ass*/
+
+.postid-7907 div.title-container{
+  background-color: #e91e63 !important; 
 }
 
 /*Managers*/
 
 .postid-7996 div.title-container,
-.postid-7948 div.title-container{
+.postid-7948 div.title-container,
+.postid-7944 div.title-container{
   background-color: #1f2765 !important; 
 }
 
@@ -3177,5 +3198,34 @@ span.woocommerce-advanced-product-label.product-label.label-red {
 .postid-7961 div.title-container,
 .postid-7958 div.title-container{
   background-color: #ea8785 !important; 
+}
+
+
+/*hospices*/
+
+.postid-7931 div.title-container{
+  background-color: #e64a19 !important; 
+}
+
+
+/*Children’s Services*/
+.postid-7929 div.title-container,
+.postid-7915 div.title-container,
+.postid-7897 div.title-container{
+  background-color: #2196f3 !important; 
+}
+
+
+/*Nurses*/
+.postid-7923 div.title-container,
+.postid-7909 div.title-container,
+.postid-7905 div.title-container{
+  background-color: #3F51B5 !important; 
+}
+
+/*Foster Carers and Shared Lives Carers*/
+.postid-7894 div.title-container,
+.postid-7892 div.title-container{
+  background-color: #673AB7 !important; 
 }
 
