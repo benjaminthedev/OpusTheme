@@ -862,9 +862,18 @@ font-weight:bold!important;}
     color:#ffffff!important;
 }
 
+.opusboxes {
+    padding-top: 10px;
+}
+
+.opusNewHeadings{
+ /*padding-top: -10px; */
+}
+
 .opusboxes h2 {
     color: #ffffff!important;
-    font-size:20px!important;
+    /*font-size:20px!important;*/
+    font-size:18px!important;
     line-height: 22px!important;
     letter-spacing: 0px!important;
     font-weight:500!important;
@@ -889,7 +898,7 @@ font-weight:bold!important;}
     font-weight: 500!important;
     text-transform: uppercase;
     text-align: center;
-    margin-top: -8px !important;
+    margin-top: -18px !important;
 }
 
 .opusboxes a {
@@ -3228,4 +3237,50 @@ span.woocommerce-advanced-product-label.product-label.label-red {
 .postid-7892 div.title-container{
   background-color: #673AB7 !important; 
 }
+
+.clientImagesHomeWrapper {
+    margin-left: 210px;
+}
+
+.clientImagesHome {
+    width: 13.8%;
+}
+
+/*-- reviews page --*/
+
+.post-type-archive-review{
+
+}
+.post-type-archive-review .entry-content.clearfix p {
+    min-height: 90px;
+}
+
+.post-type-archive-review h1.entry-title {
+    min-height: 90px;
+}
+
+.post-type-archive-review .fw-col-md-4.fw-col-sm-6.postlist-col:nth-child(7){
+  clear: both;
+}
+
+.superSmall{
+  font-size: 10px;
+}
+
+.superSmall span.wpcf7-list-item-label {
+    font-size: 9px !important;
+    margin-left: 10px;
+}
+
+.page-id-6147 .btnWrap a {
+    /* margin: 0 auto; */
+    display: block !important;
+    margin: 0 auto !important;
+    width:65%;
+}
+
+.page-id-6147 .advicebox{
+  min-height: 350px;
+}
+
 
