@@ -3283,4 +3283,10 @@ span.woocommerce-advanced-product-label.product-label.label-red {
   min-height: 350px;
 }
 
+input.input-text.qty.text {
+    color: #000;
+}
+
+
+
 

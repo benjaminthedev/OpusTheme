@@ -264,9 +264,13 @@ $('li.pricings').click(function() {
 
 
 
+// $("a.enquiresBtn").each(function(i) {
+//      this.addClass("item"+(i+1));
+// });
+
 $("a.enquiresBtn").each(function(i) {
-     this.addClass("item"+(i+1));
-    });
+     $("a.enquiresBtn").addClass("item"+(i+1));
+});
 
 
 // $('li').each(function(i) {
