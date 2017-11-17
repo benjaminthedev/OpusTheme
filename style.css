@@ -3290,18 +3290,12 @@ input.input-text.qty.text {
     color: #000;
 }
 
-
-
-
 /*Adding the tick to accred*/
 .section-two-information ul li {
     list-style-image: url(images/opusTick.png);
     padding-top: 10px;
     margin-top: 2px;
 }
-
-
-
 
 /*//enquiries button to click to enquiries page*/
 
@@ -3330,11 +3324,8 @@ input.input-text.qty.text {
   display: none;
 }
 
-
 a.newButtonClicked {
     background-color: red;
     padding: 15px 15px;
     color: #fff;
 }
-
-
