@@ -906,7 +906,7 @@ font-weight:bold!important;}
 }
 
 .opusboxone, .opusboxtwo, .opusboxthree, .opusboxfour {
-padding: 8px;
+/*padding: 8px;*/
 }
 
 .opusboxone {
@@ -3021,6 +3021,9 @@ ul.tabs-additional-info li:hover{
 
 .showINFOBox{
   display: block;
+  width: 70%;
+  margin: 0 auto;
+
 }
 
 
@@ -3288,5 +3291,50 @@ input.input-text.qty.text {
 }
 
 
+
+
+/*Adding the tick to accred*/
+.section-two-information ul li {
+    list-style-image: url(images/opusTick.png);
+    padding-top: 10px;
+    margin-top: 2px;
+}
+
+
+
+
+/*//enquiries button to click to enquiries page*/
+
+.postid-7944 .quantity,
+.postid-7944 button.single_add_to_cart_button.button.alt,
+.postid-7948 .quantity,
+.postid-7948 button.single_add_to_cart_button.button.alt,
+.postid-7942 .quantity,
+.postid-7942 button.single_add_to_cart_button.button.alt,
+.postid-7927 .quantity,
+.postid-7927 button.single_add_to_cart_button.button.alt,
+.postid-7911 .quantity,
+.postid-7911 button.single_add_to_cart_button.button.alt,
+.postid-7933 .quantity,
+.postid-7933 button.single_add_to_cart_button.button.alt,
+.postid-7938 .quantity,
+.postid-7938 button.single_add_to_cart_button.button.alt,
+.postid-7940 .quantity,
+.postid-7940 button.single_add_to_cart_button.button.alt,
+.postid-7931 .quantity,
+.postid-7931 button.single_add_to_cart_button.button.alt,
+.postid-7929 .quantity,
+.postid-7929 button.single_add_to_cart_button.button.alt,
+.postid-7936 .quantity,
+.postid-7936 button.single_add_to_cart_button.button.alt{
+  display: none;
+}
+
+
+a.newButtonClicked {
+    background-color: red;
+    padding: 15px 15px;
+    color: #fff;
+}
 
 

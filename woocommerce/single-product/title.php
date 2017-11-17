@@ -10,7 +10,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 ?>
 
-<div class="title-container">
+<div class="title-container niceTitle">
     <?php the_title( '<h1 class="product_title entry-title">', '</h1>' ); ?>
     <?php echo the_content(); ?>
 </div>

@@ -88,6 +88,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 
 		<div class="section-one-information">
+			<h2>Course Information</h2>
 			<?php the_field('course_information_box'); ?>
 		</div>
 
