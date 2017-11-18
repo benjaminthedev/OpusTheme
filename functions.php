@@ -167,6 +167,22 @@ function woocommerce_product_archive_description() {
 }
 
 
+// add handling fee
+// add_action( 'woocommerce_cart_calculate_fees','endo_handling_fee' );
+// function endo_handling_fee() {
+//      global $woocommerce;
+ 
+//      if ( is_admin() && ! defined( 'DOING_AJAX' ) )
+//          return;
+ 
+//      $fee = 2.50;
+//      $woocommerce->cart->add_fee( 'Handling', $fee, false, 'standard' );
+   
+// }
+
+
+
+
 //add handling fee
 //add_action( 'woocommerce_cart_calculate_fees','endo_handling_fee' );
 //function endo_handling_fee() {
