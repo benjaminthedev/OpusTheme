@@ -20,9 +20,6 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 } ?>
 
-
-
-
 <?php 
 if ( $related_products ) : ?>
 

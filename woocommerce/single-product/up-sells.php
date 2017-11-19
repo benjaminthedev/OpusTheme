@@ -19,9 +19,7 @@
 if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 } ?>
-
 <h2 class="relatedProductsTitle">Related Products</h2>
-
 <?php 
 if ( $upsells ) : ?>
 
