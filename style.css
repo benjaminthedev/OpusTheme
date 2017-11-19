@@ -3148,24 +3148,28 @@ span.woocommerce-advanced-product-label.product-label.label-red {
 */
 
 
+
+
+
 /*Extra Care Living Support*/
 .postid-7992 div.title-container,
 .postid-7938 div.title-container,
 .postid-7913 div.title-container,
-.postid-7901 div.title-container{
+.postid-7901 div.title-container,
+.postid-9354 div.title-container{
   background-color: #00BCD4 !important; 
 }
 
 
 /*Domiciliary*/
-
+/*home?*/
 .postid-7990 div.title-container,
 .postid-7940 div.title-container,
-.postid-7936 div.title-container,
 .postid-7919 div.title-container,
 .postid-7917 div.title-container,
 .postid-7903 div.title-container,
-.postid-7674 div.title-container{
+.postid-7674 div.title-container,
+.postid-9352 div.title-container{
   background-color: #8BC34A !important; 
 }
 
@@ -3174,7 +3178,9 @@ span.woocommerce-advanced-product-label.product-label.label-red {
 .postid-7985 div.title-container,
 .postid-7933 div.title-container,
 .postid-7921 div.title-container,
-.postid-7899 div.title-container{
+.postid-7899 div.title-container,
+.postid-9353 div.title-container,
+.postid-9351 div.title-container{
   background-color: #880E4F !important; 
 }
 
@@ -3208,7 +3214,9 @@ span.woocommerce-advanced-product-label.product-label.label-red {
 .postid-7963 div.title-container,
 .postid-7971 div.title-container,
 .postid-7961 div.title-container,
-.postid-7958 div.title-container{
+.postid-7958 div.title-container,
+.postid-9359 div.title-container,
+.postid-9357 div.title-container{
   background-color: #ea8785 !important; 
 }
 
@@ -3241,6 +3249,16 @@ span.woocommerce-advanced-product-label.product-label.label-red {
   background-color: #673AB7 !important; 
 }
 
+
+
+
+/*-- Care Homes --*/
+.postid-7936 div.title-container,
+.postid-7917 div.title-container{
+  background-color: #e9c042 !important;
+}
+
+
 .clientImagesHomeWrapper {
     margin-left: 210px;
 }
@@ -3248,6 +3266,16 @@ span.woocommerce-advanced-product-label.product-label.label-red {
 .clientImagesHome {
     width: 13.8%;
 }
+
+
+/*-- Left Button Center --*/
+
+.postid-7909 a.enquiresBtn{
+  margin-left: 390px !important;
+}
+
+
+
 
 /*-- reviews page --*/
 
@@ -3328,4 +3356,15 @@ a.newButtonClicked {
     background-color: red;
     padding: 15px 15px;
     color: #fff;
+}
+
+
+/*-- New Single Pages Upsell Section --*/
+
+section.up-sells.upsells.products .div5 article{
+  margin-top: -40px;
+}
+
+section.up-sells.upsells.products .div5 article h1.entry-title {
+    font-size: 34px!important;
 }
