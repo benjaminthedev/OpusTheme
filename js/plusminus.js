@@ -292,7 +292,7 @@ $('.postid-7981 form.cart').insertAfter('.niceTitle');
 $(".postid-7936 .add-to-cart-container, .postid-7929 .add-to-cart-container, .postid-7931 .add-to-cart-container, .postid-7940 .add-to-cart-container, .postid-7938 .add-to-cart-container, .postid-7933 .add-to-cart-container, .postid-7911 .add-to-cart-container, .postid-7927 .add-to-cart-container, .postid-7944 .add-to-cart-container, .postid-7948 .add-to-cart-container, .postid-7942 .add-to-cart-container").after('<br /> <a href="https://opuspharmserve.com/enquiries/" class="newButtonClicked">Enquire Now</a>');
 
 //This is from the archive product page
-$("a.button[data-product_id='7936'], a.button[data-product_id='7929'], a.button[data-product_id='7931'], a.button[data-product_id='7940'], a.button[data-product_id='7938'], a.button[data-product_id='7933'], a.button[data-product_id='7911'], a.button[data-product_id='7927'], a.button[data-product_id='7944'], a.button[data-product_id='7948'], a.button[data-product_id='7942']").hover(function() {
+$("a.button[data-product_id='7936'], a.button[data-product_id='7929'], a.button[data-product_id='7931'], a.button[data-product_id='7940'], a.button[data-product_id='7938'], a.button[data-product_id='7933'], a.button[data-product_id='7911'], a.button[data-product_id='7927'], a.button[data-product_id='7944'], a.button[data-product_id='7948'], a.button[data-product_id='7942'], a.button[data-product_id='7971']").hover(function() {
   // alert( "Handler for .click() called." );
   window.location.href='https://opuspharmserve.com/enquiries/';
 });
