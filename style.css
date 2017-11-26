@@ -3369,3 +3369,13 @@ section.up-sells.upsells.products .div5 article h1.entry-title {
     font-size: 34px!important;
 }
 
+
+
+
+
+/*-- Enquire Button Middle --*/
+
+.postid-7971 a.enquiresBtn,
+.postid-7973 a.enquiresBtn {
+    margin-left: 380px;
+}
